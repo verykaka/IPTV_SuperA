@@ -25,15 +25,15 @@ Love Nature,tvbus://78SiCss86kpScVsNihaFWgQ9Cft65wkk2JVpLCscC7APWQActy#tvbus://7
 Bloomberg TV,tvbus://7NakQZSucd23WYDX8986cjb24ANBmztDEPmUjRqb3Mgj5jy1BG#tvbus://7ywiNuVZ4qW8bfiYvp3qcYZtPpyzx3GjFPunidPDwDfQ6obeiM#tvbus://6vtDBikzU3XBDu2zR9zuRyMbyWqywaiyoFA9itAsvDMi9MfwyB#tvbus://6dbAAHDeJoPwCS4vCThp8TfzhdRULTRdW3Xzazt1Rh6wGDHLrWWbUyaAHi1AS#tvbus://5fXD51RG6bueU7Fx1GrUah7cKmmY19PAXfDsrxN64XLm4UbEBRYZMtE9MQ9tY#tvbus://5qevPYogWrnDTGdxuYfC9N7JuGMmR8pyWKvrZzgme2LEUdv974ZeG6KqXYWAZ
 
 央卫秒开,#genre#
-东方卫视,http://php.cqshushu.ggff.net/jzb.php?id=dfws&公众号【医工学习日志】
-陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
+海南卫视,http://php.cqshushu.ggff.net/jzb.php?id=hainws&公众号【医工学习日志】
 河南卫视,http://php.cqshushu.ggff.net/jzb.php?id=henws&公众号【医工学习日志】
+东方卫视,http://php.cqshushu.ggff.net/jzb.php?id=dfws&公众号【医工学习日志】
+广东卫视,http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】
 江苏卫视,http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】
 浙江卫视,http://php.cqshushu.ggff.net/jzb.php?id=zjws&公众号【医工学习日志】
 湖北卫视,http://php.cqshushu.ggff.net/jzb.php?id=hbws&公众号【医工学习日志】
+陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
 青海卫视,http://php.cqshushu.ggff.net/jzb.php?id=qhws&公众号【医工学习日志】
-广东卫视,http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】
-海南卫视,http://php.cqshushu.ggff.net/jzb.php?id=hainws&公众号【医工学习日志】
 江西卫视,http://php.cqshushu.ggff.net/jzb.php?id=jxws&公众号【医工学习日志】
 吉林卫视,http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
 东方卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/dfws.flv
@@ -163,36 +163,37 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 
 香港频道#genre#
-翡翠台,https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=d0a86a30cfc13abd5495e80a7f86fba3aee9052eaa7fa845c8ff3494f42af164%3A1758328989
+翡翠台,https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=4dee3d35fd033b2f9b7d557248a6d739f8c2ed17beefdf47cc88fccb8ec15c1e%3A1758415805
 
 央视频道#genre#
-CCTV-6,https://iptv.catvod.com/catvod_com.php?id=cctv6&token=8f52ca760c519942bb361cb2c45d9317dfbb8f8d944ffa93ec0c52257d4edd86%3A1758328989
+CCTV-6,https://iptv.catvod.com/catvod_com.php?id=cctv6&token=200b6ea187ba520faf332b188ff2428fb0d4c54fd6ee3c8129a97d20c8fad353%3A1758415805
 
 卫视频道#genre#
-湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=a7ab9f8a5ada2371eeba730cbd770b37c924bde2d8d2ad34549b6704d944e671%3A1758328989
-浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=ff03c8bf85c04cb20a1087a7bba3011e5dbd560fb301d1f2a58a432bef686df6%3A1758328989
-江苏卫视,https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=f20af375c856248b7e31620a221df744ace5d8b12c0fd9c2d5785c2d0270085d%3A1758328989
-深圳卫视,https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=92fb1765cb4005b4f5a2621d13ce37dc817aba4f7f3d13cd11c34d1b6a5a2a18%3A1758328989
-广东卫视,https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=30eed0fdc8d2bc2347eb72b66d94f2a39979948329fb8c14ce1a6528fadd6eee%3A1758328989
-北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=d95570bccd4e3a82006c4c0227e48bd7fc92ee293fd787d772dcd9f8fc1b62ce%3A1758328989
-广西卫视,https://iptv.catvod.com/catvod_com.php?id=guangxi&token=477230b1385ec0a866fb4591a83c611c9368c277790359c194e08c4c72b06247%3A1758328989
-湖北卫视,https://iptv.catvod.com/catvod_com.php?id=hubei&token=0a29a531af126db68f56d2468265f0e6722583c2802fc6289b20638867406bd0%3A1758328989
-四川卫视,https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=3cf50f762cda1a4eda5d5566264f3270adfc91c01990d8373d8eaf1009fef8ab%3A1758328989
-东方卫视,https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=3974ce5f6287b6be5738e0a16c1989240341192870577aee62c92e9d04af3705%3A1758328989
+湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=67927849a2eac0f7277310ac702b7ead1a06b28c62fdbb4300efd7cf73b1024a%3A1758415805
+浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=6d69fc6ca4213c5988d310266f3bcfd46c670a3c537296571aeea71a7a9ba245%3A1758415805
+江苏卫视,https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=ec361d4df0e3d23d200ec6a0dde662a974bb2c07b9d669fa4c75c02f2ef91125%3A1758415805
+深圳卫视,https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=269996220c72a121254ceeb0739a9d03f49d7a02eb6fbf3bd2a838644252293a%3A1758415805
+广东卫视,https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=cc94f48a3fd199f22cf204a539022f32a1c8f2eeafe32f9efa31b27468d2708e%3A1758415805
+北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=fb0fb2aa701c362d8c8a1d7245f4cb4ca87ba8fb8be1037aecfb9ae5ce9fa2e9%3A1758415805
+广西卫视,https://iptv.catvod.com/catvod_com.php?id=guangxi&token=e5f3d3d8985a2f273be339c959f297fdee745dc6c06a550f719ed2a6f7caf3a8%3A1758415805
+湖北卫视,https://iptv.catvod.com/catvod_com.php?id=hubei&token=e1b0d1ce0dab4911eb93036841cdee956c8bf78a9dfab3bb88e5e0cd626d5ba4%3A1758415805
+四川卫视,https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=2cc79e33811d8e89c976a0d88078b1a0b446126a2abef74373439cab51a91897%3A1758415805
+东方卫视,https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=e2ccc68ca150f7dfbca269f256a83217c2c283f7a21bcf68cc6ef6bf282cda15%3A1758415805
 
 台湾频道#genre#
-东森超视,https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=09a977aefb02ca038fc4e3b0e7fd310cfe7505ecc42d304e3456c9a0fb5bd6ea%3A1758328989
+东森超视,https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=2209f890512e7c1a118036ff770cd9d69d643ab32e1d02402c0e740d67f2c1ab%3A1758415805
 
 电影频道#genre#
-Animax,https://iptv.catvod.com/catvod_com.php?id=Animax&token=2986020a1cbdfc1214edecc96da37772f68adbcaeaf737dbc4d326266533ad94%3A1758328989
+Animax,https://iptv.catvod.com/catvod_com.php?id=Animax&token=e152f5d6dd94cf6dd9acf5ccf874c9b437f5f3218a96068de8feff417214e221%3A1758415805
 
 记录频道#genre#
-Discovery Asia,https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=2dc0fd9ec1fb09f64b3d5c9376fb87e78840887bcc8f78f7cc51fedd3e7450d0%3A1758328989
+Discovery Asia,https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=14753ae8588e8c876598b18151ae4a631a3b6afc6b50be17d69420593b4d264d%3A1758415805
 
 央卫直播①,#genre#
 黑龙江卫视,http://111.43.126.240:9003/hls/6/index.m3u8
 
 央卫直播,#genre#
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CETV1,http://ygbh.site/php/bfgd.php?id=135
 CETV2,http://ygbh.site/php/bfgd.php?id=492
 北京卫视,http://ygbh.site/php/bfgd.php?id=083
@@ -230,7 +231,6 @@ CETV2,http://ygbh.site/php/bfgd.php?id=492
 云南卫视,http://ygbh.site/php/bfgd.php?id=115
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094
 安徽卫视,http://ygbh.site/php/bfgd.php?id=096
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://sh.lnott.top:880/dx32.m3u8
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 湖南卫视,http://sh.lnott.top:880/dx31.m3u8
