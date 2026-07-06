@@ -109,7 +109,6 @@ NewTV,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 
 港澳台,#genre#
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
@@ -118,6 +117,7 @@ NewTV,#genre#
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
@@ -135,6 +135,17 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 大杂烩,#genre#
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
+
+上海电视#genre#
+东方卫视,http://iptv.catvod.com/1?t=1783310270&token=624ce5ba0e0ba089bcc30f7d09ae7816ab2b0b273b433b6c07480976d2e75c1f
+
+广东电视#genre#
+大湾区卫视,https://iptv.catvod.com/gdtv?id=51&t=1783303070&tk=7wE-BP55rKwCgGbc9yirxYU3oXEQwTrlB7t28ET1Bhc
+广东体育,https://iptv.catvod.com/gdtv?id=47&t=1783303070&tk=OLbnGOj3zvD-CyJFx5DmEGtyoOzsa22moTHHl68RfEo
+广东卫视,https://iptv.catvod.com/gdtv?id=43&t=1783303070&tk=5qyY-AFsIXcCWmbUhrFxwsawpzwIcW1E-REkkTOxJxE
+广东新闻,https://iptv.catvod.com/gdtv?id=45&t=1783303070&tk=dMWIk_INB85n4jnyLc-C01nTOhMG5t_PIdVhSnlGTAk
+广东民生,https://iptv.catvod.com/gdtv?id=48&t=1783303070&tk=VvKGp8mbckAHvVyzd7sHtVeWLdGkHF__0N2L-M3QhpM
+广东珠江,https://iptv.catvod.com/gdtv?id=44&t=1783303070&tk=4b9u3PMZ92ELHCwWH8_cge9DE5aJ00PkbzCHzSpHU-Y
 
 💫央卫直播,#genre#
 东方卫视,http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
